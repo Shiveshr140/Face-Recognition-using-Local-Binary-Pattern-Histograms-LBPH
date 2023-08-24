@@ -1,1 +1,1 @@
-# Face-Recognition-using-Local-Binary-Pattern-Histograms-LBPH-
+# Face-Recognition-using-Local-Binary-Pattern-Histograms-LBPH
